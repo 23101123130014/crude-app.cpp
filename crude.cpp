@@ -52,7 +52,7 @@ cin>>choice;
 							cout<<"\n exting crude application"; //case for exiting the application
 							break;
 							default:
-								cout<<"\n enter correct choice it is long choice";
+								cout<<"\n enter correct choice it is long choice"; //alert one to enter correct choice
 	}
 	
 }
