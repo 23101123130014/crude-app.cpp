@@ -6,7 +6,7 @@ using namespace std;  // Use the standard namespace to avoid prefixing std::
 struct Item
 {
 	int id; // Item ID
-	string name;
+	string name; // Item Name
 	double price;
 	void display() const {
 	cout<<"\n ID: " << id << ", NAME " << name << ", PRICE" << price;
