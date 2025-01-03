@@ -1,6 +1,6 @@
 #include <iostream> //library for input and output operation
 #include <string> // enable the use of std:string
-#include <vector>
+#include <vector> // Include the vector library for using std::vector
 using namespace std;  // Use the standard namespace to avoid prefixing std::
 struct Item
 {
