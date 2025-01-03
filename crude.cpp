@@ -49,7 +49,7 @@ cin>>choice;
 					case 4:
 						deleteItem(items); //case which calls funtion to delete item
 						case 5:
-							cout<<"\n exting crude application";
+							cout<<"\n exting crude application"; //case for exiting the application
 							break;
 							default:
 								cout<<"\n enter correct choice it is long choice";
