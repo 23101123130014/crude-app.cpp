@@ -91,7 +91,7 @@ void readItems(const vector<Item>& items)
 		}
 }
 
-//function to update item
+//definition of the function to read item
 void updateItem(vector<Item>& items)
 {
 	int id;
