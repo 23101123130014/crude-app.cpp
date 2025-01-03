@@ -94,7 +94,7 @@ void readItems(const vector<Item>& items)
 //definition of the function to read item
 void updateItem(vector<Item>& items)
 {
-	int id;
+	int id; //variable to hold the id of the item to update
 	cout<<"\n entet the item id to update";
 	cin>>id;
 	for(auto item : items)
