@@ -1,7 +1,7 @@
 #include <iostream> //library for input and output operation
 #include <string> // enable the use of std:string
 #include <vector>
-using namespace std;
+using namespace std;  // Use the standard namespace to avoid prefixing std::
 struct Item
 {
 	int id;
