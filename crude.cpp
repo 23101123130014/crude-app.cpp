@@ -44,7 +44,7 @@ cin>>choice;
 				 readItems(items); //case which calls function to read items
 				break;
 				case 3:
-					 updateItem(items);
+					 updateItem(items); //case which calls function to update item
 					break;
 					case 4:
 						deleteItem(items);
