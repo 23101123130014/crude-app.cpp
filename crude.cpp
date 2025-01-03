@@ -23,7 +23,7 @@ int main()
 {
 	int choice; //variable to handle user input
 vector<Item> items; //vector to store item
-
+//for displaying crude application menu
 do
 {
 cout<<"-----crude application menu----";
