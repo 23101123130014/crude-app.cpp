@@ -14,7 +14,7 @@ struct Item
 	}
 };
 //function prototype
-void createItem(vector<Item>& items);
+void createItem(vector<Item>& items); // Function to create a new item
 void readItems(const vector<Item>& items);
 void updateItem(vector<Item>& items);
 void deleteItem(vector<Item>& items);
