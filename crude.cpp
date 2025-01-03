@@ -41,7 +41,7 @@ cin>>choice;
 			 createItem(items); //case which call function to create item
 			break;
 			case 2:
-				 readItems(items);
+				 readItems(items); //case which calls function to read items
 				break;
 				case 3:
 					 updateItem(items);
