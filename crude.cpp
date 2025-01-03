@@ -59,6 +59,7 @@ cin>>choice;
 while(choice != 5);
 return 0;	
 }
+//definition of function to create item
 void createItem(vector<Item>& items)
 {
 Item newItem;
