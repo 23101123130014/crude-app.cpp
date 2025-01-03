@@ -47,7 +47,7 @@ cin>>choice;
 					 updateItem(items); //case which calls function to update item
 					break;
 					case 4:
-						deleteItem(items);
+						deleteItem(items); //case which calls funtion to delete item
 						case 5:
 							cout<<"\n exting crude application";
 							break;
