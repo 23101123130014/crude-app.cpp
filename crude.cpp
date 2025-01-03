@@ -26,7 +26,7 @@ vector<Item> items; //vector to store item
 //for displaying crude application menu
 do
 {
-cout<<"-----crude application menu----";
+cout<<"-----crude application menu----"; //alert the menu about 
 cout<<"\n 1: create item";
 cout<<"\n 2: read items";
 cout<<"\n 3: update item";
