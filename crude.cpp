@@ -7,7 +7,8 @@ struct Item
 {
 	int id; // Item ID
 	string name; // Item Name
-	double price;
+	double price; // Item Price
+
 	void display() const {
 	cout<<"\n ID: " << id << ", NAME " << name << ", PRICE" << price;
 	}
