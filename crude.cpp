@@ -1,5 +1,5 @@
-#include <iostream>
-#include <string>
+#include <iostream> //library for input and output operation
+#include <string> // enable the use of std:string
 #include <vector>
 using namespace std;
 struct Item
