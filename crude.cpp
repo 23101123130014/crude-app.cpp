@@ -38,7 +38,7 @@ cin>>choice;
 	switch(choice)
 	{
 		case 1:
-			 createItem(items);
+			 createItem(items); //case which call function to create item
 			break;
 			case 2:
 				 readItems(items);
