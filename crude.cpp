@@ -5,7 +5,7 @@ using namespace std;  // Use the standard namespace to avoid prefixing std::
 // Define a structure for an Item
 struct Item
 {
-	int id;
+	int id; // Item ID
 	string name;
 	double price;
 	void display() const {
