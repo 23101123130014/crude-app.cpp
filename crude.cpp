@@ -85,7 +85,7 @@ void readItems(const vector<Item>& items)
 			cout<<"\n item list";
 			for(const auto& item : items)
 			{
-			item.display();
+			item.display(); //it display the items found in the vector
 			
 						}
 		}
