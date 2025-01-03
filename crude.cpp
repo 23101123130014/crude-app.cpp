@@ -22,7 +22,7 @@ void deleteItem(vector<Item>& items); //function to delete exiting particular it
 int main()
 {
 	int choice; //variable to handle user input
-vector<Item> items;
+vector<Item> items; //vector to store item
 
 do
 {
