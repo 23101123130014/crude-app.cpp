@@ -30,7 +30,7 @@ cout<<"-----crude application menu----"; //alert the menu about
 cout<<"\n 1: create item"; //choice to create item
 cout<<"\n 2: read items"; //choice to read items
 cout<<"\n 3: update item"; //choice to update item
-cout<<"\n 4: delete item";
+cout<<"\n 4: delete item"; //choice to delete item
 cout<<"\n 5: Exit";
 cout<<"choose the choice above";
 cin>>choice;
