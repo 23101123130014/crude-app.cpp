@@ -22,7 +22,6 @@ vector<Item> items; //vector to store item
 cout<<"\n 1: create item"; //choice to create item
 	}
 }
-return 0;	
 }
 //definition of function to create item
 void createItem(vector<Item>& items)
