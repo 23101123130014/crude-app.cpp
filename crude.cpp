@@ -22,7 +22,6 @@ vector<Item> items; //vector to store item
 cout<<"\n 1: create item"; //choice to create item
 cout<<"\n 3: update item"; //choice to update item
 cout<<"\n 5: Exit"; //choice for exiting crude application
-cout<<"choose the choice above"; //prompot user to choose the choice above
 cin>>choice;
 //switch on various action on bases of the user choice
 	switch(choice)
