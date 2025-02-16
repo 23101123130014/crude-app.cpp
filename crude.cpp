@@ -23,7 +23,6 @@ cout<<"\n 1: create item"; //choice to create item
 	}
 //function to read items
 	for(auto item : items)
-		if(item.id = id){
 			cout<<"\n enter the item name";
 			getline(cin, item.name);
 			cout<<"\n enter the item price ";
