@@ -19,7 +19,6 @@ void readItems(const vector<Item>& items); // Function to read and display all i
 void updateItem(vector<Item>& items); // Function to update the existing product
 void deleteItem(vector<Item>& items); //function to delete exiting particular item
 
-int main()
 {
 	int choice; //variable to handle user input
 vector<Item> items; //vector to store item
