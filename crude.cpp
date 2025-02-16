@@ -22,7 +22,6 @@ vector<Item> items; //vector to store item
 cout<<"\n 1: create item"; //choice to create item
 	}
 }
-Item newItem;
 cin>>newItem.id;
 cin.ignore();
 cout<<"\n enter the item name";
