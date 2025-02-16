@@ -23,7 +23,6 @@ cout<<"\n 1: create item"; //choice to create item
 	}
 }
 
-cout<<"\n item created sucessfully";
 
 }
 //function to read items
