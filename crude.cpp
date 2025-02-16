@@ -19,7 +19,6 @@ void readItems(const vector<Item>& items); // Function to read and display all i
 void updateItem(vector<Item>& items); // Function to update the existing product
 {
 vector<Item> items; //vector to store item
-//for displaying crude application menu
 do
 {
 cout<<"-----crude application menu----"; //alert the menu about 
