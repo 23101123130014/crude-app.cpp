@@ -22,7 +22,6 @@ vector<Item> items; //vector to store item
 cout<<"\n 1: create item"; //choice to create item
 cout<<"\n 3: update item"; //choice to update item
 				break;
-						case 5:
 							cout<<"\n exting crude application"; //case for exiting the application
 							break;
 							default:
