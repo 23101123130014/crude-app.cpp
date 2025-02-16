@@ -23,7 +23,6 @@ cout<<"\n 1: create item"; //choice to create item
 	}
 }
 Item newItem;
-cout<<"\n enter the item id ";
 cin>>newItem.id;
 cin.ignore();
 cout<<"\n enter the item name";
