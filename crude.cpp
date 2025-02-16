@@ -18,7 +18,6 @@ void createItem(vector<Item>& items); // Function to create a new item
 void readItems(const vector<Item>& items); // Function to read and display all items
 void updateItem(vector<Item>& items); // Function to update the existing product
 {
-	int choice; //variable to handle user input
 vector<Item> items; //vector to store item
 //for displaying crude application menu
 do
