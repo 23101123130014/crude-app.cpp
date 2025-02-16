@@ -21,7 +21,6 @@ void updateItem(vector<Item>& items); // Function to update the existing product
 vector<Item> items; //vector to store item
 cout<<"\n 1: create item"; //choice to create item
 	}
-}
 //function to read items
 
 void readItems(const vector<Item>& items)
