@@ -22,7 +22,6 @@ vector<Item> items; //vector to store item
 cout<<"\n 1: create item"; //choice to create item
 cout<<"\n 3: update item"; //choice to update item
 				break;
-					 updateItem(items); //case which calls function to update item
 					case 4:
 						deleteItem(items); //case which calls funtion to delete item
 						case 5:
