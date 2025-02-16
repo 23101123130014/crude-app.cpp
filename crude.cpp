@@ -21,7 +21,6 @@ void updateItem(vector<Item>& items); // Function to update the existing product
 vector<Item> items; //vector to store item
 cout<<"\n 1: create item"; //choice to create item
 cout<<"\n 3: update item"; //choice to update item
-cout<<"\n 5: Exit"; //choice for exiting crude application
 				break;
 				case 3:
 					 updateItem(items); //case which calls function to update item
