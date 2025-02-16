@@ -21,7 +21,6 @@ void updateItem(vector<Item>& items); // Function to update the existing product
 vector<Item> items; //vector to store item
 cout<<"\n 1: create item"; //choice to create item
 cout<<"\n 3: update item"; //choice to update item
-				break;
 							break;
 							default:
 								cout<<"\n enter correct choice it is long choice"; //alert one to enter correct choice
