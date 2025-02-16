@@ -20,7 +20,6 @@ void updateItem(vector<Item>& items); // Function to update the existing product
 {
 vector<Item> items; //vector to store item
 do
-cout<<"-----crude application menu----"; //alert the menu about 
 cout<<"\n 1: create item"; //choice to create item
 cout<<"\n 2: read items"; //choice to read items
 cout<<"\n 3: update item"; //choice to update item
