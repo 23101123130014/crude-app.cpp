@@ -23,7 +23,6 @@ cout<<"\n 1: create item"; //choice to create item
 	}
 //function to read items
 {
-	if(items.empty())
 	{
 		cout<<"\n no item found";
 		}
