@@ -22,7 +22,6 @@ vector<Item> items; //vector to store item
 cout<<"\n 1: create item"; //choice to create item
 	}
 //function to read items
-
 void updateItem(vector<Item>& items)
 {
 	int id; //variable to hold the id of the item to update
