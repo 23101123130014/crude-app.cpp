@@ -23,7 +23,6 @@ cout<<"\n 1: create item"; //choice to create item
 	}
 //function to read items
 		else{
-			for(const auto& item : items)
 			item.display(); //it display the items found in the vector
 			
 						}
