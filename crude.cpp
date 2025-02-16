@@ -23,7 +23,6 @@ cout<<"\n 1: create item"; //choice to create item
 	}
 }
 getline(cin, newItem.name);
-items.push_back(newItem);
 
 cout<<"\n item created sucessfully";
 
