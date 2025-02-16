@@ -22,7 +22,6 @@ vector<Item> items; //vector to store item
 cout<<"\n 1: create item"; //choice to create item
 	}
 }
-cout<<"\n enter the item name";
 getline(cin, newItem.name);
 items.push_back(newItem);
 
