@@ -23,7 +23,6 @@ cout<<"\n 1: create item"; //choice to create item
 cout<<"\n 3: update item"; //choice to update item
 cout<<"\n 5: Exit"; //choice for exiting crude application
 			 createItem(items); //case which call function to create item
-			break;
 			case 2:
 				 readItems(items); //case which calls function to read items
 				break;
