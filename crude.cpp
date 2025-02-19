@@ -1,6 +1,5 @@
 #include <string>  // enable the use of std:string
 using namespace std;  // Use the standard namespace to avoid prefixing std::
-/
 struct Item
 {
 	int id; //Item ID
