@@ -13,7 +13,6 @@ void readItems(const vector<Item>& items); // Function to read and display all i
 void updateItem(vector<Item>& items); // Function to update the existing product
 {
 cout<<"\n 1: create item"; //choice to create item
-	}
 			getline(cin, item.name);
 			cout<<"\n enter the item price ";
 			cin>>item.price;
