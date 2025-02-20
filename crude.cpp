@@ -1,7 +1,6 @@
 using namespace std;  // Use the standard namespace to avoid prefixing std::
 struct Item
 	int id; //Item ID
-	string name; // Item Name
 	double price; // Item Price
 // Display the item details
 	void display() const {
