@@ -16,7 +16,6 @@ cout<<"\n 1: create item"; //choice to create item
 			getline(cin, item.name);
 			cin>>item.price;
 			cout<<"\n item update sucesfully";
-			return;
 		}
 	}
 	cout<<"\n Item with the given id not found";
